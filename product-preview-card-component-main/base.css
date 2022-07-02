@@ -1,0 +1,19 @@
+#container {
+    display: flex;
+    border: 2px red solid;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+#left-side {
+
+    background-image: url("image-product-desktop.jpg");
+    background-size: cover;
+
+}
+
+#right-side {
+    flex-basis: 50vh;
+}
