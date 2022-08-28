@@ -25,7 +25,7 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 
-- Live Site URL: [https://stellular-manatee-70e63c.netlify.app/]
+- Live Site URL: https://stellular-manatee-70e63c.netlify.app/
 
 
 ### Built with
